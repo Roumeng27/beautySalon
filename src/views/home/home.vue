@@ -102,7 +102,7 @@ export default {
 }
 .banner_story img{
     display: inline-block;
-    width: 368px;
+    /* width: 368px; */
     height: 254px;
 }
 .banner_right{
