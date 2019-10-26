@@ -7,7 +7,7 @@
           <span style="color:#9933cc">微整案例</span>
           <span>皮肤案例</span>
       </div>
-      <div class="main_box">
+      <div class="main_box"style="margin-left:100px;">
           <div class="main_face">
               <img src="../../assets/img/case1.jpg" alt="">
               <div>面部精雕+眼综合</div>

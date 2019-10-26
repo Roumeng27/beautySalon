@@ -85,6 +85,7 @@ export default {
     width: 100%;
     display: flex;
     flex:1;
+    justify-content: space-around;
 }
 .banner_img .imgphoto{
     display: inline-block;

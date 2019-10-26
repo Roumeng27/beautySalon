@@ -109,6 +109,6 @@ export default {
     margin-bottom: 20px;
 }
 .main_word{
-    color:#ccc;
+    color:#777;
 }
 </style>

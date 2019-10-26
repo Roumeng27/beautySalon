@@ -11,7 +11,7 @@
           <span>精致亮眼</span>
           <span>丰胸隆胸</span>
       </div>
-      <div class="main_box">
+      <div class="main_box" style="margin-left:100px;">
           <div class="main_face">
               <img src="../../assets/img/shaping1.jpg" alt="">
               <div>活力苹果肌</div>
@@ -29,7 +29,7 @@
               <div>精致小V脸</div>
           </div>
       </div>
-      <div class="main_box">
+      <div class="main_box"style="margin-left:100px;">
           <div class="main_face">
               <img src="../../assets/img/shapingchun.jpg" alt="">
               <div>水嫩嘟嘟唇</div>
@@ -96,13 +96,11 @@ export default {
     margin-top:30px;
     display: flex;
     flex:1;
-    
     padding:20px 0;
 }
 .main_face{
-    width: 24%;
+    width: 23%;
     margin-right: 20px;
-   
 }
 .main_face img{
     display: inline-block;

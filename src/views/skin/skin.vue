@@ -9,7 +9,7 @@
           <span>胶原蛋白</span>
           <span>月光脱毛</span>
       </div>
-      <div class="main_box">
+      <div class="main_box" style="margin-left:100px;">
           <div class="main_face">
               <img src="../../assets/img/skin1.jpg" alt="">
               <div>双美II胶原蛋白</div>
@@ -27,7 +27,7 @@
               <div>水美人</div>
           </div>
       </div>
-      <div class="main_box">
+      <div class="main_box"style="margin-left:100px;">
           <div class="main_face">
               <img src="../../assets/img/skin5.jpg" alt="">
               <div>光子嫩肤</div>

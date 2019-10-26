@@ -80,6 +80,7 @@ export default {
     position: absolute;
     top:30px;
     left: 50px;
+    padding-bottom: 20px;
 }
 .user_name{
     width:80%;
